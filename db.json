@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "name": "kkorz"
+  },
+  "todolist": [
+    {
+      "id": 0,
+      "name": "下班去吃饭",
+      "done": false
+    },
+    {
+      "id": 1,
+      "name": "出门带好雨伞",
+      "done": true
+    }
+  ]
+}
