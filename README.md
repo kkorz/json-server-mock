@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/kkorz/demo](https://my-json-server.typicode.com/kkorz/demo)
+https://my-json-server.typicode.com/kkorz/vite-react-api
 
 ## Use your own data
 
