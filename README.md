@@ -1,6 +1,6 @@
 ## Try it
 
-https://my-json-server.typicode.com/kkorz/vite-react-api
+https://my-json-server.typicode.com/kkorz/json-server-mock
 
 ## Use your own data
 
